@@ -1,0 +1,9 @@
+.venv/
+.browsers/
+__pycache__/
+.env
+credentials*.json
+property.json
+renters.json
+output/
+*.eml
